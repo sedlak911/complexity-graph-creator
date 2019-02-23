@@ -1,8 +1,8 @@
-# complexity-graph-creator
-Utility for creating graph from algorithm.
+# Complexity graph creator
+Prototype of my utility for creating graph from algorithm.
 
 ## How to use
-Make your own functions like in code. You should understand :D <br>
+Make your own functions like in code. You should understand <br>
 You need Python3 and Pillow library. <br>
 `pip install Pillow`
 
