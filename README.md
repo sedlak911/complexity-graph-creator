@@ -2,7 +2,9 @@
 Utility for creating graph from algorithm.
 
 ## How to use
-Make your own functions like in code. You should understand :D
+Make your own functions like in code. You should understand :D <br>
+You need Python3 and Pillow library. <br>
+`pip install Pillow`
 
 ## Screenshot
 ![Screenshot](screenshot.png)
